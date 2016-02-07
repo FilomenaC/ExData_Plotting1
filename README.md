@@ -95,7 +95,7 @@ The four plots that you will need to construct are shown below.
 ### Plot 1
 
 
-![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
+![GitHub Logo](https://github.com/bquast/ExData_Plotting1/blob/master/figure/unnamed-chunk-2.png)
 
 
 ### Plot 2
